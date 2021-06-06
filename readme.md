@@ -1,7 +1,7 @@
 <h1 align="center">Google Pesquisa Clone 👋</h1>
 <img alt="demo" src=""/>
 <p>
-  <img alt="Version" src="https://github.com/Jeffbeu/Google-Pesquisa/blob/master/Screenshot_1.png?raw=true" />
+  <img alt="Version" src="https://github.com/Jeffbeu/Google-Pesquisa/blob/master/images/Screenshot_1.png?raw=true" />
   <a href="#" target="_blank">
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
